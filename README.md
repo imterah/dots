@@ -1,0 +1,2 @@
+# dots
+Dotsfile for BSPWM
