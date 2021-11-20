@@ -1,5 +1,5 @@
 ## Dependencies
-You need to install picom-jonaburg-git (AUR), polybar (AUR), sxhkd, and bspwm.
+You need to install picom-jonaburg-git (AUR), polybar (AUR), sxhkd, bspwm, kitty, and rofi.
 ```bash
 yay -S picom-jonaburg-git polybar sxhkd bspwm kitty rofi
 ```
