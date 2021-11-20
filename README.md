@@ -22,4 +22,8 @@ Install powerlevel10k.
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 ```
+Set ZSH to your default shell.
+```
+chsh -s $(which zsh)
+```
 Log out, and log back in, and you should have a working config!
