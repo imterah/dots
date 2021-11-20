@@ -1,2 +1,2 @@
 # dots
-Dotsfile for BSPWM
+Dotfiles for BSPWM
