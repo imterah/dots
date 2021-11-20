@@ -17,6 +17,7 @@ mv "~/dependencies/MesloLGS NF Regular.ttf" ~/.local/share/fonts/
 mv "~/dependencies/MesloLGS NF Bold.ttf" ~/.local/share/fonts/
 mv "~/dependencies/MesloLGS NF Italic.ttf" ~/.local/share/fonts/
 mv "~/dependencies/MesloLGS NF Bold Italic.ttf" ~/.local/share/fonts/
+rm -rf ~/dependencies
 ```
 Install powerlevel10k.
 ```
