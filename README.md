@@ -1,7 +1,7 @@
 ## Dependencies
-You need to install picom-jonaburg-git (AUR), polybar (AUR), sxhkd, bspwm, kitty, rofi, which, neofetch, and zsh.
-```bash
-yay -S picom-jonaburg-git polybar sxhkd bspwm kitty rofi zsh which neofetch
+You need to install picom-jonaburg-git (AUR), polybar (AUR), sxhkd, bspwm, kitty, rofi, which, neofetch, nitrogen, and zsh.
+```
+yay -S picom-jonaburg-git polybar sxhkd bspwm kitty rofi zsh which neofetch nitrogen
 ```
 ## Install Guide
 Git clone this repo, and override all the files it has in your home directory.
