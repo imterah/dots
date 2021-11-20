@@ -8,5 +8,5 @@ Git clone this repo, and override all the files it has in your home directory.
 ```
 git clone https://github.com/creamy-dev/dots.git
 cp -R dots/* ~/
-rm -rf README.md LICENSE
+rm -rf ~/README.md ~/LICENSE
 ```
