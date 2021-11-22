@@ -1,8 +1,11 @@
 ## Dependencies
-You need to install picom-jonaburg-git (AUR), polybar (AUR), sxhkd, bspwm, kitty, rofi, which, neofetch, nitrogen, ttf-liberation, and zsh.
+You need to install picom-jonaburg-git, polybar, sxhkd, bspwm, kitty, rofi, which, neofetch, nitrogen, ttf-liberation, and zsh.
+### Arch Linux installation
 ```
 yay -S picom-jonaburg-git polybar sxhkd bspwm kitty rofi zsh which neofetch nitrogen ttf-liberation
 ```
+### Gentoo
+If you use Gentoo, like me, you can probably figure it out.
 ## Install Guide
 Git clone this repo, and override all the files it has in your home directory.
 ```
