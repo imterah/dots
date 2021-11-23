@@ -5,7 +5,7 @@ You need to install picom-jonaburg-git, polybar, sxhkd, bspwm, kitty, rofi, whic
 `yay -S picom-jonaburg-git polybar sxhkd bspwm kitty rofi zsh which neofetch nitrogen ttf-liberation`
 ### Dark
 #### Arch Linux installation
-`yay -S polybar sxhkd bspwm kitty rofi zsh which neofetch ttf-liberation`
+`yay -S polybar sxhkd bspwm kitty rofi zsh which neofetch nitrogen ttf-liberation`
 ## Install Guide
 Git clone this repo, and override all the files it has in your home directory.
 ```

@@ -18,11 +18,11 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #222
-background-alt = #444
+background = #000000
+background-alt = #000000
 ;foreground = ${xrdb:color7:#222}
-foreground = #dfdfdf
-foreground-alt = #555
+foreground = #ffffff
+foreground-alt = #808080
 primary = #426370
 secondary = #e60053
 alert = #98665d
@@ -30,7 +30,7 @@ alert = #98665d
 [bar/example]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 100%
-height = 30
+height = 27
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 0.0
@@ -46,7 +46,7 @@ border-size = 0
 border-color = #00000000
 
 padding-left = 0
-padding-right = 0
+padding-right = 2
 
 module-margin-left = 1
 module-margin-right = 2
