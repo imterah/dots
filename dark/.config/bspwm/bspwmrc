@@ -5,11 +5,13 @@ nm-applet &
 $HOME/.config/polybar/launch.sh
 xfce4-power-manager &
 
+nitrogen --set-auto ~/Dark.png
+
 bspc config top_padding 27
 
 bspc config window_gap 0
 bspc config left_padding 0
-bspc right_padding 0
+bspc config right_padding 0
 bspc config bottom_padding 0
 
 bspc monitor -d I II III IV V
