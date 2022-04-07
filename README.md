@@ -67,9 +67,8 @@ rm -rf ~/.p10k.sh
 rm -rf ~/powerlevel10k
 ```
 Remove fonts. 
-#### WARNING: This will remove all fonts in ~/.local/share/fonts. You should back your important fonts up.
 ```
-rm -rf ~/.local/share/fonts/*
+rm -rf ~/.local/share/fonts/MesloLGS*
 ```
 #### Uninstall packages
 #### Arch Linux
